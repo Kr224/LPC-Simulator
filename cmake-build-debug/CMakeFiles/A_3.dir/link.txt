@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/A_3.dir/lpc.c.o -o A_3 
